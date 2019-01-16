@@ -1,0 +1,44 @@
+body {
+    background: lightpink, url(/assets/images/Oak_Large) no-repeat scroll top;
+    font-family:'Gruppo', cursive;
+}
+
+#stoneArch {
+    z-index:-20;
+    width:100%;
+    height:auto;
+    overflow:auto;
+}
+
+#specPic {
+    width:200px;
+    height:auto;
+    float:right;
+}
+
+p {
+   position:center; 
+    line-height:30px;
+    float:left;
+    text-indent:30px;
+    color:black;
+    font-size:25px;
+    width:600px;
+    margin:auto;
+}
+
+h1 {
+    background-color:  #7e5e7b;
+    padding:40px;
+    color:#FFFF;
+}
+
+h2 {
+    background-color:lightcoral;
+    padding:25px;
+    color:#FFFF;
+}
+
+div {
+    overflow:auto;
+}
